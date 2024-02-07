@@ -7,7 +7,6 @@ setup(
     install_requires=[
         'numpy',
         'pandas',
-        'os',
         'matplotlib'
     ],
     # Outras informações opcionais, como descrição, autor, etc.
